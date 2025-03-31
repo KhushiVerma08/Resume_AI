@@ -20,8 +20,6 @@
 
    * ## **Outcome**: Produces a tailored resume that boosts your chances of advancing through ATS filters and securing interviews for your target role.
 
-## ---
-
 ### **🎯 Who It’s For**
 
 ## Resume Enhancer Pro is designed to serve a diverse audience, adapting to various career stages and goals:
@@ -45,8 +43,6 @@
 * ## **Recruiters**:
 
   * ## Those evaluating talent can leverage the system to refine candidate resumes for better alignment with open roles.
-
-## ---
 
 ### **🔧 How It Revolutionizes the Job Application Process**
 
@@ -81,14 +77,11 @@
   * ## Addresses every aspect of a resume—content, structure, and style—with features like grammar correction, quantifiable achievement suggestions, and professional formatting.
 
   * ## Offers a holistic improvement that appeals to both human recruiters and automated systems.
-
-## ---
-
+    
 ## **📖 Introduction to Resume Enhancer Pro**
 
 **Resume Enhancer Pro** is an innovative, AI-powered web application designed to transform the way job seekers create, refine, and customize their resumes. By integrating advanced technologies such as Streamlit, Supabase, and Google’s Gemini AI, this tool offers a seamless and intuitive platform that empowers users to craft professional, standout resumes tailored to their career goals. Whether you’re entering the workforce, switching industries, or advancing in your career, Resume Enhancer Pro provides the tools and insights needed to make your resume shine in the eyes of recruiters and Applicant Tracking Systems (ATS).
 
----
 
 ### **🌟 What is Resume Enhancer Pro?**
 
@@ -109,7 +102,6 @@
   * Score the resume’s effectiveness based on content, keywords, and formatting.  
   * Provide actionable suggestions and generate optimized outputs that appeal to both humans and ATS algorithms.
 
----
 
 ### **🔑 Key Features**
 
@@ -161,8 +153,6 @@
   * Protects data with TLS 1.3 encryption in transit and AES-256 at rest, complying with GDPR and CCPA.  
 * **Accessibility**:  
   * Adheres to WCAG 2.1 standards with screen reader support, high-contrast modes, and voice command functionality.
-
----
 
 ### **🚀 How It Works: Workflow Overviews**
 
@@ -218,8 +208,6 @@
 11. **Database Storage**:  
     * The final version is saved with metadata for future use.
 
----
-
 ### **💡 Why Choose Resume Enhancer Pro?**
 
 * **Advanced AI Insights**:  
@@ -232,8 +220,6 @@
    Manage one resume or dozens with version control, customizable templates, and cloud integration, adapting to your job search needs.  
 * **Future-Ready**:  
    Regular updates keep the app aligned with evolving ATS algorithms, hiring practices, and user feedback, maintaining your competitive edge.
-
----
 
 ### **🌍 Impact and Vision**
 
