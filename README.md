@@ -2,6 +2,11 @@
 
 An AI-powered application that helps you improve your resume, match it to job descriptions, and optimize it for specific career opportunities.
 
+## Demo Video 🎥
+ 
+[Click here to watch the demo](https://img.youtube.com/vi/2uoh_mxyrp4/0.jpg)](https://youtu.be/2uoh_mxyrp4) 
+
+
 ## Features
 
 - **Resume Feature Extraction**: Extract key information from your resume
